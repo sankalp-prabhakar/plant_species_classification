@@ -1,4 +1,4 @@
-# A primer on machine learning with image data for plant species classification
+## A primer on machine learning with image data for plant species classification
 
 This tutorial is a primer on image data related machine learning. You will learn the basics of image data preprocessing &amp; data augmentation. You will then build classification models to classify plant species using traditional ML algorithm, CNN-based and pre-trained models. A brief summary of steps in this tutorial is listed below.
 
