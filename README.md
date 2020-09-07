@@ -5,7 +5,7 @@ This tutorial is a primer on image data related machine learning. You will learn
 ### Steps in this tutorial
 
 1. Load the dataset
-  - Load healthy species 
+  * Load healthy species 
 2. Eploratory data analysis
   - Plot randomly selected species
 3. Initial data preprocessing
