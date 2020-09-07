@@ -2,7 +2,7 @@
 
 This tutorial is a primer on image data related machine learning. You will learn the basics of image data preprocessing &amp; data augmentation. You will then build classification models to classify plant species using traditional ML algorithm, CNN-based and pre-trained models. A brief summary of steps in this tutorial is listed below.
 
-**Data:** Colored RGB images of healthy plant species was used from: https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
+**Data:** Colored RGB images of healthy plant species was used from: https://github.com/spMohanty/PlantVillage-Dataset
 
 ### Steps in this tutorial
 
