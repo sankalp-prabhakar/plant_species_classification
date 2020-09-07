@@ -5,26 +5,34 @@ This tutorial is a primer on image data related machine learning. You will learn
 ### Steps in this tutorial
 
 1. Load the dataset
-  * Load healthy species 
+   - Load healthy species
+   
 2. Eploratory data analysis
-  - Plot randomly selected species
+   - Plot randomly selected species
+   
 3. Initial data preprocessing
-  - Resize images
-  - Normalize image pixel values
+   - Resize images
+   - Normalize image pixel values
+   
 4. Explore some image data preprocessing techniques
-  - Change the color space
-  - Gamma correct images
-  - Histogram equalization technique (CLAHE)
+   - Change the color space
+   - Gamma correct images
+   - Histogram equalization technique (CLAHE)
+   
 5. Data augmentation
-  - Generate & plot augmented image from a sample crop species
-  - Generate augmented images in bulk
+   - Generate & plot augmented image from a sample crop species
+   - Generate augmented images in bulk
+   
 6. Generate labels
+
 7. Shape and generate train/test data splits
+
 8. Model training and evaluation
-  - Using RandomForestClassifier
-  - Plotting confusion matrix
-  - Using CNNs
+   - Using RandomForestClassifier
+   - Plotting confusion matrix
+   - Using CNNs
+   
 9. Using pretrained model - MobileNet
-  - Use image generators with pretrained model
-  - Model training and validation
-  - Test model performance
+   - Use image generators with pretrained model
+   - Model training and validation
+   - Test model performance
